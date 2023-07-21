@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey there! I'm Parikanksha.
+Web Development and Design
 <!--
 **ParikankshaVenkatesh/ParikankshaVenkatesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
